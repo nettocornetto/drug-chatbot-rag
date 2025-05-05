@@ -27,4 +27,4 @@ This is a Retrieval-Augmented Generation (RAG) chatbot designed to answer medica
 
 ---
 
-## 📂 Project Structure
+
